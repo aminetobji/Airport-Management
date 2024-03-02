@@ -1,0 +1,36 @@
+C:\Users\Asus\source\repos\AirportManagement\AM.ApplicationCore\bin\Debug\net6.0\AM.ApplicationCore.deps.json
+C:\Users\Asus\source\repos\AirportManagement\AM.ApplicationCore\bin\Debug\net6.0\AM.ApplicationCore.dll
+C:\Users\Asus\source\repos\AirportManagement\AM.ApplicationCore\bin\Debug\net6.0\AM.ApplicationCore.pdb
+C:\Users\Asus\source\repos\AirportManagement\AM.ApplicationCore\obj\Debug\net6.0\AM.ApplicationCore.csproj.AssemblyReference.cache
+C:\Users\Asus\source\repos\AirportManagement\AM.ApplicationCore\obj\Debug\net6.0\AM.ApplicationCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\source\repos\AirportManagement\AM.ApplicationCore\obj\Debug\net6.0\AM.ApplicationCore.AssemblyInfoInputs.cache
+C:\Users\Asus\source\repos\AirportManagement\AM.ApplicationCore\obj\Debug\net6.0\AM.ApplicationCore.AssemblyInfo.cs
+C:\Users\Asus\source\repos\AirportManagement\AM.ApplicationCore\obj\Debug\net6.0\AM.ApplicationCore.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\AirportManagement\AM.ApplicationCore\obj\Debug\net6.0\AM.ApplicationCore.dll
+C:\Users\Asus\source\repos\AirportManagement\AM.ApplicationCore\obj\Debug\net6.0\refint\AM.ApplicationCore.dll
+C:\Users\Asus\source\repos\AirportManagement\AM.ApplicationCore\obj\Debug\net6.0\AM.ApplicationCore.pdb
+C:\Users\Asus\source\repos\AirportManagement\AM.ApplicationCore\obj\Debug\net6.0\ref\AM.ApplicationCore.dll
+C:\Users\Mohamed\Desktop\Architecture SI\Correction TP1\AirportManagement\AM.ApplicationCore\bin\Debug\net6.0\AM.ApplicationCore.deps.json
+C:\Users\Mohamed\Desktop\Architecture SI\Correction TP1\AirportManagement\AM.ApplicationCore\bin\Debug\net6.0\AM.ApplicationCore.dll
+C:\Users\Mohamed\Desktop\Architecture SI\Correction TP1\AirportManagement\AM.ApplicationCore\bin\Debug\net6.0\AM.ApplicationCore.pdb
+C:\Users\Mohamed\Desktop\Architecture SI\Correction TP1\AirportManagement\AM.ApplicationCore\obj\Debug\net6.0\AM.ApplicationCore.csproj.AssemblyReference.cache
+C:\Users\Mohamed\Desktop\Architecture SI\Correction TP1\AirportManagement\AM.ApplicationCore\obj\Debug\net6.0\AM.ApplicationCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mohamed\Desktop\Architecture SI\Correction TP1\AirportManagement\AM.ApplicationCore\obj\Debug\net6.0\AM.ApplicationCore.AssemblyInfoInputs.cache
+C:\Users\Mohamed\Desktop\Architecture SI\Correction TP1\AirportManagement\AM.ApplicationCore\obj\Debug\net6.0\AM.ApplicationCore.AssemblyInfo.cs
+C:\Users\Mohamed\Desktop\Architecture SI\Correction TP1\AirportManagement\AM.ApplicationCore\obj\Debug\net6.0\AM.ApplicationCore.csproj.CoreCompileInputs.cache
+C:\Users\Mohamed\Desktop\Architecture SI\Correction TP1\AirportManagement\AM.ApplicationCore\obj\Debug\net6.0\AM.ApplicationCore.dll
+C:\Users\Mohamed\Desktop\Architecture SI\Correction TP1\AirportManagement\AM.ApplicationCore\obj\Debug\net6.0\refint\AM.ApplicationCore.dll
+C:\Users\Mohamed\Desktop\Architecture SI\Correction TP1\AirportManagement\AM.ApplicationCore\obj\Debug\net6.0\AM.ApplicationCore.pdb
+C:\Users\Mohamed\Desktop\Architecture SI\Correction TP1\AirportManagement\AM.ApplicationCore\obj\Debug\net6.0\ref\AM.ApplicationCore.dll
+C:\Users\Amine\Desktop\AirportManagement_mohamed taamallah\AirportManagement\AM.ApplicationCore\bin\Debug\net6.0\AM.ApplicationCore.deps.json
+C:\Users\Amine\Desktop\AirportManagement_mohamed taamallah\AirportManagement\AM.ApplicationCore\bin\Debug\net6.0\AM.ApplicationCore.dll
+C:\Users\Amine\Desktop\AirportManagement_mohamed taamallah\AirportManagement\AM.ApplicationCore\bin\Debug\net6.0\AM.ApplicationCore.pdb
+C:\Users\Amine\Desktop\AirportManagement_mohamed taamallah\AirportManagement\AM.ApplicationCore\obj\Debug\net6.0\AM.ApplicationCore.csproj.AssemblyReference.cache
+C:\Users\Amine\Desktop\AirportManagement_mohamed taamallah\AirportManagement\AM.ApplicationCore\obj\Debug\net6.0\AM.ApplicationCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Amine\Desktop\AirportManagement_mohamed taamallah\AirportManagement\AM.ApplicationCore\obj\Debug\net6.0\AM.ApplicationCore.AssemblyInfoInputs.cache
+C:\Users\Amine\Desktop\AirportManagement_mohamed taamallah\AirportManagement\AM.ApplicationCore\obj\Debug\net6.0\AM.ApplicationCore.AssemblyInfo.cs
+C:\Users\Amine\Desktop\AirportManagement_mohamed taamallah\AirportManagement\AM.ApplicationCore\obj\Debug\net6.0\AM.ApplicationCore.csproj.CoreCompileInputs.cache
+C:\Users\Amine\Desktop\AirportManagement_mohamed taamallah\AirportManagement\AM.ApplicationCore\obj\Debug\net6.0\AM.ApplicationCore.dll
+C:\Users\Amine\Desktop\AirportManagement_mohamed taamallah\AirportManagement\AM.ApplicationCore\obj\Debug\net6.0\refint\AM.ApplicationCore.dll
+C:\Users\Amine\Desktop\AirportManagement_mohamed taamallah\AirportManagement\AM.ApplicationCore\obj\Debug\net6.0\AM.ApplicationCore.pdb
+C:\Users\Amine\Desktop\AirportManagement_mohamed taamallah\AirportManagement\AM.ApplicationCore\obj\Debug\net6.0\ref\AM.ApplicationCore.dll
